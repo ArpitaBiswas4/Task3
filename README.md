@@ -63,12 +63,12 @@ java LibraryManagementSystem
 
 ```
 MAIN MENU
-1. Book Management
-2. User Management
-3. Issue Book
-4. Return Book
-5. View Issued Books
-0. Exit
+Press 1 for Book Management
+Press 2 for User Management
+Press 3 for Issue Book
+Press 4 for Return Book
+Press 5 for View Issued Books
+Press 0 for Exit
 ```
 
 ### 1. Book Management
